@@ -1,6 +1,6 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-DEPLOYED WEBSITE: https://nickpasch.github.io/Homework2Portfolio/
+DEPLOYED WEBSITE: https://nickpasch.github.io/2-responsivePortfolio/
 
 In this assignment, I created a website that will serve as a portfolio for my work so future employers can view it. It includes a navbar, a home page that has a bio, links to my social media, and an image of myself, a contact page with a form that people can use to send me enquiries, and a portfolio page which will showcase my work once I have some. 
 
