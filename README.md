@@ -1,4 +1,4 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# Responsive Portfolio
 
 DEPLOYED WEBSITE: https://nickpasch.github.io/2-responsivePortfolio/
 
