@@ -1,0 +1,70 @@
+nav {
+    color:cadetblue;
+
+}
+
+.home {
+    min-height: 820px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+
+body {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+html body {
+    background-color: darkgrey;
+
+}
+
+#abb{
+    font-weight: bold;
+}
+
+#link {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.port {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    /* min-height: 100%; */
+    margin-bottom: 70px;
+    margin-top: 20px;
+}
+
+#footer {
+    position: fixed;
+    height: 50px;
+    background-color: #292b2c;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    position: fixed;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    margin-top: auto;
+}
+
+#aboutText{
+    font-size: x-large;
+    
+}
+
+#contactPage{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+

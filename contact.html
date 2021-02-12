@@ -5,12 +5,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="./Assets/css/style.css">
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/sticky-footer/">
     <title>Contact</title>
 </head>
 
 <body>
     <!-- Navbar again -->
-  <nav class="navbar navbar-expand-md navbar-light bg-light ">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
         <a class="navbar-brand" href="#">Nick Pasch</a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
           <span class="navbar-toggler-icon"></span>
@@ -30,7 +33,7 @@
         </div>
   </nav>
     <!-- This is the main content of the page which uses the grid system and cards from bootstrap which will showcase my work. -->
-  <main class="container">
+  <main class="container" id="contactPage">
   <form id="contact-form" method="post" action="contact.php">
     <div class="messages"></div>
     <div class="controls">
@@ -87,6 +90,12 @@
     </div>
   </form>
   </main>
+
+  <div id="footer">
+    <div class="container">
+      <h2 class="footer-block">Nick Pasch</h2>
+    </div>
+  </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

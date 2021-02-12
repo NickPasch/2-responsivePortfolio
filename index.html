@@ -6,12 +6,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Me</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="./Assets/css/style.css">
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/sticky-footer/">
 </head>
 
 <body>
   <!-- This is the navbar code. It is responsive and was taken somewhat from boostrap. -->
-  <nav class="navbar navbar-expand-md navbar-light bg-light ">
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark ">
     <a class="navbar-brand" href="#">Nick Pasch</a>
     <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
       <span class="navbar-toggler-icon"></span>
@@ -31,20 +33,38 @@
     </div>
   </nav>
   <!-- This is the main content of the page. It has a brief bio, with some links to my social media and a photo of me. It utilizes the grid system. -->
-  <main class="container">
-    <h1 class="row">About Me</h1>
+  <main class="container" class="home">
+    <h1 class="row" id="abb">About Me</h1>
     <div class="row">
       <p class="col-md-8" id="aboutText">Hello! My name is Nick Pasch, and I am a student of the University of Washington 6-month web dev bootcamp program. After I graduated from high school a year early, I enrolled at the University of New Mexico as a computer science major. While being entirely interested in programming, I quickly concluded that I wasn't being nearly as productive as I could be, and I wanted to begin working. I dropped out in my second semester and enrolled in this bootcamp.</p>      
-      <img class="col-md-4" src="photoMeNew.jpg" alt="Photo of me"/>
+      <img class="col-md-4" src="./Assets/images/photoMeNew.jpg" alt="Photo of me"/>
     </div>
   <br>
-  <h3>Links</h3>
-    <ul>
-      <a href="https://www.linkedin.com/in/nicholas-pasch-7866a9186/">LinkedIn</a>
-      <br>
-      <a href="https://github.com/NickPasch">Github</a>
-    </ul>
+  <h2 class="animate__pulse" id="link">LINKS</h2>
+  <br>
+    <div class="row">
+      <div class="col-md-2">
+      </div>
+      <div class="col-md-4">
+        <a href="https://www.linkedin.com/in/nicholas-pasch-7866a9186/" target="_blank"><img class="animate__animated animate__bounceInDown" src="./Assets/images/1280px-LinkedIn_Logo.svg.png" height="200" width="350" /></a>
+      <!-- <a class="animate__pulse" href="https://www.linkedin.com/in/nicholas-pasch-7866a9186/">LinkedIn</a> -->
+      </div>
+      <div class="col-md-6">
+        <a href="https://github.com/NickPasch" target="_blank"><img class="animate__animated animate__bounceInUp" src="./Assets/images/github-logo.png" height="200" width="350" /></a>
+      </div>
+      <!-- <a class="animate__pulse" href="https://github.com/NickPasch">Github</a> -->
+    </div>
+
   </main>
+
+  <div id="footer">
+    <div class="container">
+      <h2 class="footer-block">Nick Pasch</h2>
+    </div>
+  </div>
+
+
+
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
