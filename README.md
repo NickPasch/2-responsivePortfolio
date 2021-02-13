@@ -6,5 +6,5 @@ In this assignment, I created a website that will serve as a portfolio for my wo
 
 I used the bootstrap responsive grid system on every page, and it proved immensely useful. I got my navbar from bootstrap, too, although I did modify it considerably. The form was loosely based on a form from bootstrap, as well as the cards that I will be using for my work that I showcase in the future which were directly taken from bootstrap. The footer was also taken from bootstrap. 
 
-![Image of Website](./Assets/images/portfolioindex.png)
+![Image of Website](portfolioindex.png)
 
