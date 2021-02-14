@@ -1,6 +1,6 @@
 nav {
     color:cadetblue;
-
+    font-weight: bold;
 }
 
 .home {
@@ -32,6 +32,7 @@ html body {
 
 .port {
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 .wrapper {
@@ -60,9 +61,16 @@ html body {
     
 }
 
-#contactPage{
-    font-family: Arial, Helvetica, sans-serif;
+#docu {
+    margin: auto;
+    font-weight: bold;
+    
 }
+
+.pho {
+    font-weight: bold;
+}
+
 
 
 
