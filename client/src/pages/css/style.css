@@ -16,6 +16,11 @@ html body {
 
 }
 
+.portfolio {
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+
 #abb{
     font-weight: bold;
 }

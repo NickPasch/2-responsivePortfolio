@@ -1,10 +1,44 @@
-# Responsive Portfolio
+# React Portfolio  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-DEPLOYED WEBSITE: https://nickpasch.github.io/2-responsivePortfolio/
+# Table of Contents
 
-In this assignment, I created a website that will serve as a portfolio for my work so future employers can view it. It is a dark themed website with a landing page of a short bio and animated image-links to my github and linkedin accounts. Then the user can visit the portfolio page and view 6 different projects I have worked on with a short description and image of each, with buttons below this preview that can take you to the repository and live website. The only page that is not fully functioning is the contact page, which I am saving for the reactification of the website.  
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-I used the bootstrap responsive grid system on every page, and it proved immensely useful. I got my navbar from bootstrap, too, although I did modify it considerably. The form was loosely based on a form from bootstrap, as well as the cards that I will be using for my work that I showcase in the future which were directly taken from bootstrap. The footer was also taken from bootstrap. 
+## Description
+        
+In this project, I took my already designed responsive portfolio and implemented react into it. It features 6 total projects, a header component used on multiple pages, navigation with the react router, and a footer component used on multiple pages. 
 
-![Image of Website](portfolioindex.png)
+## Installation 
 
+Navigate to the website 
+
+## Usage
+
+Use the navbar to check the different pages out 
+
+## License
+
+This application is covered under the MIT license.
+
+## Contributing
+
+NA
+
+## Tests
+
+NA
+
+## Questions
+
+NA
+
+My Github: https://github.com/nickpasch
+
+If you have any questions, feel free to email me at: paschnick100@gmail.com
+    

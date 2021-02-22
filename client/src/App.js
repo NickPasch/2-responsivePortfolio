@@ -8,6 +8,7 @@ import {
 import './App.css';
 // Components 
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -27,7 +28,7 @@ function App() {
           <Route exact path="/portfolio" component={Portfolio}/>
           <Route exact path="/contact" component={Contact}/>
         </Switch>
-
+      <Footer />
       </Router>
     </div>
   );
