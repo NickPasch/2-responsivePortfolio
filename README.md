@@ -1,3 +1,3 @@
 # Portfolio
 
-This is my portfolio! 
+This is my portfolio! It utilizes react. 
