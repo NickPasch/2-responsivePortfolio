@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/2-responsivePortfolio/static/css/main.56da2623.chunk.css",
+    "main.js": "/2-responsivePortfolio/static/js/main.3aa5e72e.chunk.js",
+    "main.js.map": "/2-responsivePortfolio/static/js/main.3aa5e72e.chunk.js.map",
+    "runtime-main.js": "/2-responsivePortfolio/static/js/runtime-main.b6fffbae.js",
+    "runtime-main.js.map": "/2-responsivePortfolio/static/js/runtime-main.b6fffbae.js.map",
+    "static/css/2.150d169a.chunk.css": "/2-responsivePortfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.dfb8dc10.chunk.js": "/2-responsivePortfolio/static/js/2.dfb8dc10.chunk.js",
+    "static/js/2.dfb8dc10.chunk.js.map": "/2-responsivePortfolio/static/js/2.dfb8dc10.chunk.js.map",
+    "index.html": "/2-responsivePortfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/2-responsivePortfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.56da2623.chunk.css.map": "/2-responsivePortfolio/static/css/main.56da2623.chunk.css.map",
+    "static/js/2.dfb8dc10.chunk.js.LICENSE.txt": "/2-responsivePortfolio/static/js/2.dfb8dc10.chunk.js.LICENSE.txt",
+    "static/media/1280px-LinkedIn_Logo.svg.45015d67.png": "/2-responsivePortfolio/static/media/1280px-LinkedIn_Logo.svg.45015d67.png",
+    "static/media/Nick Pasch Resume 2-13-21.09fb83a5.pdf": "/2-responsivePortfolio/static/media/Nick Pasch Resume 2-13-21.09fb83a5.pdf",
+    "static/media/fitnesstracker.65a3c003.png": "/2-responsivePortfolio/static/media/fitnesstracker.65a3c003.png",
+    "static/media/github-logo.ad0f05c7.png": "/2-responsivePortfolio/static/media/github-logo.ad0f05c7.png",
+    "static/media/hike locator.8c2669d9.png": "/2-responsivePortfolio/static/media/hike locator.8c2669d9.png",
+    "static/media/movie review.85d08daa.png": "/2-responsivePortfolio/static/media/movie review.85d08daa.png",
+    "static/media/note taker.7a859a99.png": "/2-responsivePortfolio/static/media/note taker.7a859a99.png",
+    "static/media/photoMeNew.9da27739.jpg": "/2-responsivePortfolio/static/media/photoMeNew.9da27739.jpg",
+    "static/media/weatherdash.7651ac82.png": "/2-responsivePortfolio/static/media/weatherdash.7651ac82.png",
+    "static/media/work day.74292659.png": "/2-responsivePortfolio/static/media/work day.74292659.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6fffbae.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.dfb8dc10.chunk.js",
+    "static/css/main.56da2623.chunk.css",
+    "static/js/main.3aa5e72e.chunk.js"
+  ]
+}
